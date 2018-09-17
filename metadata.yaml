@@ -1,5 +1,5 @@
 _repo: Bird-Portraits_52600
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Hoffmann, Ralph
@@ -20,7 +20,12 @@ contributor:
     gutenberg_agent_id: '535'
     url: http://www.gutenberg.org/2009/agents/535
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Thompson_Seton
+covers:
+- cover_type: archival
+  image_path: 52600-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52600#Bird-Portraits
 gutenberg_issued: '2016-07-18'
 gutenberg_type: Text
 identifiers:
